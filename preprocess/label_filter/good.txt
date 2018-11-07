@@ -1,0 +1,5 @@
+/home/yangyuhao/data/road/data/1/G314A-1048+675880-1048+843480.jpg
+/home/yangyuhao/data/road/data/1/G314A-1035+546720-1035+717480.jpg
+/home/yangyuhao/data/road/data/1/G314A-1077+917040-1078+090360.jpg
+/home/yangyuhao/data/road/data/1/G314A-1058+991800-1059+161600.jpg
+/home/yangyuhao/data/road/data/1/G314A-1110+834280-1111+006320.jpg
